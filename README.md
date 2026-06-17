@@ -128,12 +128,6 @@ enterprise_knowledge_assistant/
 
 ---
 
-## 📈 Resume Description
-
-Developed an Enterprise Knowledge Assistant using RAG, Google Gemini, FAISS, Streamlit, and MySQL. Implemented document ingestion, vector search, semantic retrieval, role-based authentication, and AI-powered question answering for enterprise knowledge management.
-
----
-
 ## 🔮 Future Improvements
 
 - DOCX & Excel Support
