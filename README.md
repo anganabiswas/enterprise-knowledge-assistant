@@ -1,4 +1,4 @@
-📚 Enterprise Knowledge Assistant
+### 📚 Enterprise Knowledge Assistant
 
 An AI-powered Enterprise Knowledge Management System built using **RAG (Retrieval-Augmented Generation)**, **Google Gemini**, **FAISS**, **Streamlit**, and **MySQL**.
 
