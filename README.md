@@ -1,4 +1,4 @@
-# 📚 Enterprise Knowledge Assistant
+<img width="1882" height="838" alt="Screenshot 2026-06-17 201652" src="https://github.com/user-attachments/assets/54c157a9-ceba-4a9a-a12e-13c747b5cfa2" /># 📚 Enterprise Knowledge Assistant
 
 An AI-powered Enterprise Knowledge Management System built using **RAG (Retrieval-Augmented Generation)**, **Google Gemini**, **FAISS**, **Streamlit**, and **MySQL**.
 
@@ -140,12 +140,14 @@ enterprise_knowledge_assistant/
 ---
 
 ## Admin Dashboard 
-<img width="537" height="273" alt="Screenshot 2024-04-15 221931" src="https://github.com/user-attachments/assets/cc9db634-ae89-46ec-8d76-509b17225e6f" />
+<img width="1892" height="862" alt="Screenshot 2026-06-17 201112" src="https://github.com/user-attachments/assets/5d26aebc-5dc5-4320-b0c0-1990da743244" />
+
 
 ---
 
 ## Employee Dashboard 
-<img width="272" height="39" alt="Screenshot 2024-04-15 215209" src="https://github.com/user-attachments/assets/df99566f-be7c-4b19-99f9-d3cec95e52f8" />
+<img width="1882" height="838" alt="Screenshot 2026-06-17 201652" src="https://github.com/user-attachments/assets/db65a713-b542-4d16-a03c-565515704f59" />
+
 
 ---
 
