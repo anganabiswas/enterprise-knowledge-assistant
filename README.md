@@ -1,4 +1,4 @@
-<img width="1882" height="838" alt="Screenshot 2026-06-17 201652" src="https://github.com/user-attachments/assets/54c157a9-ceba-4a9a-a12e-13c747b5cfa2" /># 📚 Enterprise Knowledge Assistant
+📚 Enterprise Knowledge Assistant
 
 An AI-powered Enterprise Knowledge Management System built using **RAG (Retrieval-Augmented Generation)**, **Google Gemini**, **FAISS**, **Streamlit**, and **MySQL**.
 
