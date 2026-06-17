@@ -139,8 +139,21 @@ enterprise_knowledge_assistant/
 
 ---
 
+## Admin Dashboard 
+<img width="537" height="273" alt="Screenshot 2024-04-15 221931" src="https://github.com/user-attachments/assets/cc9db634-ae89-46ec-8d76-509b17225e6f" />
+
+---
+
+## Employee Dashboard 
+<img width="272" height="39" alt="Screenshot 2024-04-15 215209" src="https://github.com/user-attachments/assets/df99566f-be7c-4b19-99f9-d3cec95e52f8" />
+
+---
+
 ## 👩‍💻 Author
 **Angana Biswas**
 
 **LinkedIn:**  
 https://linkedin.com/in/angana-biswas-data-science
+
+
+
